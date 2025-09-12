@@ -9,7 +9,7 @@ Tools Used: VS Code or Programiz online compiler.
 ## Overloading in Cpp
 Overloading in C++ is a feature that allows the same function name or operator to be used with different meanings based on the input parameters. It improves code readability and reusability. There are mainly three types: function overloading, constructor overloading, and operator overloading. In function and constructor overloading, multiple functions/constructors with the same name are defined but with different parameter lists. Operator overloading allows redefining operators like +, -, == for user-defined classes. Overall, overloading makes programs more intuitive and closer to natural usage.
 
-**1. Function Overloading**
+**1. Function Overloading:**
 Function overloading in C++ is a feature where two or more functions have the same name but differ in the number or type of parameters. The compiler decides which function to call based on the arguments passed. It helps in achieving compile-time polymorphism and improves code readability.
 
 ```
@@ -20,7 +20,7 @@ returnType functionName(parameter_list2);
 ```
 
 
-**2. Constructor Overloading**
+**2. Constructor Overloading:**
 Constructor overloading in C++ is a feature where a class can have multiple constructors with the same name but different parameter lists. The compiler selects the appropriate constructor based on the arguments passed at the time of object creation. It allows objects to be initialized in different ways, improving flexibility and code reusability.
 
 ```
@@ -36,7 +36,7 @@ public:
 
 
 
-**3. Operator Overloading**
+**3. Operator Overloading:**
 Operator overloading in C++ is a feature that allows predefined operators like +, -, *, ==, etc., to be redefined and used with user-defined data types (classes/objects). It gives operators new meanings while keeping their original syntax, making code more intuitive. Operator overloading is a type of compile-time polymorphism.
 
 ```
