@@ -28,3 +28,8 @@ class Interest{
 
         return 0;
     }
+
+
+/*==========OUTPUTS==========
+Compound Interest is: 1424.51
+*/
