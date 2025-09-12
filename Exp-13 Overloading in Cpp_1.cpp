@@ -31,3 +31,10 @@ int main(){
 
     return 0;
 }
+
+
+/*==========OUTPUTS==========
+Sum is(int): 5
+Sum is(double): 3.3
+Sum is(3 digits): 6
+*/
