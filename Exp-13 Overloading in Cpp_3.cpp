@@ -32,3 +32,9 @@ class Concat{
 
         return 0;
     }
+
+
+/*==========OUTPUTS==========
+Concatenated String is: NishkaRanadive
+Concatenated Characters are: NR
+*/
